@@ -1,4 +1,4 @@
 cradle:
   stack:
   - path: "lib"
-    component: "lib:hls-eval-multimods"
+    component: "hls-eval-multimods:lib"
